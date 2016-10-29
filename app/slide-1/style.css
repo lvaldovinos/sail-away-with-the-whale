@@ -1,0 +1,7 @@
+html.main-image div.slide-background.present {
+  width: 400px;
+  height: 250px;
+  position: fixed;
+  left: 100px;
+  bottom: 0;
+}
