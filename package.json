@@ -4,7 +4,7 @@
   "description": "Sail away with the whale (a docker introduction)",
   "main": "server.js",
   "scripts": {
-    "postinstall": "bower install",
+    "bower-install": "bower install --allow-root",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
