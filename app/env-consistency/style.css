@@ -1,0 +1,35 @@
+#env-consistency .environment {
+  float: left;
+  border: 1px solid black;
+  margin-right: 0.5em;
+  width: 300px;
+  height: 380px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+#env-consistency section {
+  margin-top: 4.5em;
+}
+#env-consistency section .server-container {
+  width: 1100px;
+  height: 410px;
+  background-color: #d5dae2;
+  position: relative;
+  top: 30px;
+  right: 75px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  border: 1px solid black;
+}
+#env-consistency section .server-container .clear{
+  clear: both;
+}
+#env-consistency .docker-container {
+  width: 1000px;
+  height: 85px;
+  margin-top: 0.5em;
+  margin-left: 1em;
+  background-color: #43853d;
+}

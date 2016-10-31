@@ -8,7 +8,7 @@
     <h4><a href="#/image-sharing">Simple image sharing</a></h4>
     <p>Docker registry allows developers to share images publicly (hub.docker.com) and privately.</div>
   <div class="docker-feature">
-    <h4>Eliminate env inconsistencies</h4>
+    <h4><a href="#/env-consistency">Eliminate env inconsistencies</a></h4>
     <p>Creating a package of your app (code, deps & config) guarantees the application will <strong>always</strong> run.</p>
   </div>
 </section>
