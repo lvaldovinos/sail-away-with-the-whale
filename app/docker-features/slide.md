@@ -14,7 +14,7 @@
 </section>
 <section>
   <div class="docker-feature">
-    <h4>Accelerate Developers</h4>
+    <h4><a href="#/accelerate-dev">Accelerate Developers</a></h4>
     <p>Stop wasting hours setting up developer environment.</p>
   </div>
   <div class="docker-feature">
