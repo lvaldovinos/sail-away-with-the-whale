@@ -5,7 +5,7 @@
     <code data-trim 
       data-noescape
     >
-      <strong>FROM</strong> node:6-slim
+      <strong>FROM</strong> node:6
       <strong>RUN</strong> mkdir /application 
       <strong>WORKDIR</strong> /application
       <strong>COPY</strong> package.json .
