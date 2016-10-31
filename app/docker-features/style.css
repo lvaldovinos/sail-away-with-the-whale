@@ -13,3 +13,7 @@
 #docker-features .red {
   color: red;
 }
+#docker-features .docker-features-2 {
+  position: relative;
+  left: 155px;
+}
